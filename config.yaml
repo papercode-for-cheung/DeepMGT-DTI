@@ -1,0 +1,4 @@
+---
+dti_dir : "../../../data_ours/generated/training_dti.csv"
+drug_dir : "../../../data_ours/generated/training_compound.csv"
+protein_dir : "../../../data_ours/generated/training_protein.csv"
